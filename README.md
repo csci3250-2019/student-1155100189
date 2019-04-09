@@ -25,4 +25,4 @@ I like programming. Welcome to email me to discuss about difficult stuff.  *JK*
 | 3       | JAPAN   | 4,872       |
 
 
-![alt text](https://raw.githubusercontent.com/csci3250-2019/student-1155100189/master/hi.png"Logo Title Text 1")
+![Image of Yaktocat](https://raw.githubusercontent.com/csci3250-2019/student-1155100189/master/hi.png)
