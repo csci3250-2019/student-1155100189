@@ -1,6 +1,6 @@
 # student-1155100189  
   
-### Hello, I am <span style="color:blue">***Brian***</span>  
+### Hello, I am <span style="color:blue">some ***Brian***</span>  
 ===============================   
 I like programming. Welcome to email me to discuss about difficult stuff.  
   
