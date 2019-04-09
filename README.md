@@ -1,8 +1,8 @@
 # student-1155100189  
   
-### Hello, I am <span style="color:blue">some ***Brian***</span>  
+### Hello, I am some ***Brian***    
 ===============================   
-I like programming. Welcome to <span style="color:blue"> email </span> me to discuss about difficult stuff.  JK  
+I like programming. Welcome to email me to discuss about difficult stuff.  *JK*  
   
 1. Macau
 2. CUHK
@@ -17,7 +17,7 @@ I like programming. Welcome to <span style="color:blue"> email </span> me to dis
 - [X] eat breakfast  
 - [ ] sleep for enough time  
   
-### some interesting data you ___***MUST***___ know  
+### some interesting data you ___*MUST*___ know  
 | Ranking | Country | GDP(10B US) |
 |---------|---------|-------------|
 | 1       | USA     | 18,391      |
