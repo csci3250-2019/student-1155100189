@@ -27,3 +27,4 @@ ___New___ _to_ **GitHub**
 
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/csci3250-2019/student-1155100189/master/hi.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/csci3250-2019/student-1155100189/master/bye.png)
