@@ -3,6 +3,7 @@
 ### Hello, I am some ***Brian***    
 ===============================   
 I like programming. Welcome to email me to discuss about difficult stuff.  *JK*  
+___New___ _to_ **GitHub**  
   
 1. Macau
 2. CUHK
