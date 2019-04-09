@@ -2,7 +2,7 @@
   
 ### Hello, I am <span style="color:blue">some ***Brian***</span>  
 ===============================   
-I like programming. Welcome to email me to discuss about difficult stuff.  
+I like programming. Welcome to <span style="color:blue"> email </span> me to discuss about difficult stuff.  JK  
   
 1. Macau
 2. CUHK
